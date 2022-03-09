@@ -8,13 +8,13 @@ body{
       justify-content: center;
   }
   .login-text{
-      font-family: 'Quicksand', sans-serif;
+      font-family: 'Times New Roman', Times, serif;
   }
   #login{
   font-weight:bold;
   }
   #logo{
-  font-family: 'Special Elite', cursive;
+  font-family: 'Times New Roman', Times, serif;
   color:#ed5107;
   font-size:20px;
   }
